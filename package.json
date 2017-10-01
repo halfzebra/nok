@@ -1,0 +1,25 @@
+{
+  "name": "npm-run-prompt",
+  "version": "1.0.0",
+  "author": "Eduard Kyvenko <eduard.kyvenko@gmail.com",
+  "bin": {
+    "nrp": "bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "execa": "^0.8.0",
+    "find-root": "^1.1.0",
+    "inquirer": "^3.3.0",
+    "read-package-json": "^2.0.12"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.2"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": "git@github.com:halfzebra/npm-run-prompt.git",
+  "scripts": {
+    "format": "prettier --trailing-comma es5 --single-quote --write 'index.js' 'packages/*/!(node_modules)/**/*.js'"
+  }
+}

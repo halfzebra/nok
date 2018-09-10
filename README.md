@@ -1,11 +1,11 @@
-# npm-run-prompt
+# 👟 npm-run-prompt
 
-Run your scripts from `package.json` with a prompt in a terminal.
+Run your scripts from `package.json` using a prompt in a terminal.
 
 ## Installation
 
 ```sh
-npm i npm-run-prompt -g
+npm install npm-run-prompt -g
 ```
 
 ## Usage

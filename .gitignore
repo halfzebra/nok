@@ -110,3 +110,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Ignore the lock file
+package-lock.json

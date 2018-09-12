@@ -17,7 +17,11 @@
   "devDependencies": {
     "prettier": "^1.14.2"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "npm",
+    "npm-scripts"
+  ],
   "license": "MIT",
   "main": "lib/index.js",
   "repository": "git@github.com:halfzebra/npm-run-prompt.git",

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Eduard Kyvenko <eduard.kyvenko@gmail.com",
   "bin": {
-    "nrp": "bin/cli.js"
+    "nok": "bin/cli.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",

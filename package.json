@@ -1,6 +1,6 @@
 {
-  "name": "npm-run-prompt",
-  "version": "1.0.0",
+  "name": "nok",
+  "version": "0.1.0",
   "author": "Eduard Kyvenko <eduard.kyvenko@gmail.com",
   "bin": {
     "nrp": "bin/cli.js"
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "repository": "git@github.com:halfzebra/npm-run-prompt.git",
+  "repository": "git@github.com:halfzebra/nok.git",
   "scripts": {
     "format": "prettier --write lib/**/*.js bin/**/*.js"
   }

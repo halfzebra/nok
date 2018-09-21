@@ -1,6 +1,6 @@
 {
   "name": "nok",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "author": "Eduard Kyvenko <eduard.kyvenko@gmail.com",
   "bin": {
     "nok": "bin/cli.js"

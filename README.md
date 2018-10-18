@@ -14,8 +14,17 @@ npm install nok -g
 
 ## Usage
 
-Run the `nok` command inside the folder with your Node.js project:
+Run the `nok` command inside your Node.js project root folder:
 
 ```sh
 nok
+```
+
+Run `nok --filterHooks` command inside your Node.js project root folder if you
+want to filter hooks from the menu. With the `--filterHooks` flag being set,
+only scripts names will be displayed and every pre/post hooks won't be
+displayed:
+
+```sh
+nok --filterHooks
 ```
